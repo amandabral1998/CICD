@@ -2,7 +2,7 @@ name: Deploying First Project using the Github CI-CD
 
 on:
   push:
-    branches: main
+    branches: master
 
 jobs:
   build-and-deploy: 
